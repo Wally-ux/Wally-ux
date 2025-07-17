@@ -1,4 +1,4 @@
-## Hi there 👋, Walter Frias
+## Hi there 👋, Mi Nomnbre es Walter Frias
 ![Visitor] [![GitHub followers]
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +13,8 @@
 - tecnologias abordadas
 - 🐍 python
 
-- muchas ganas de seguir aprendiendo , adquirir conocimientos y herramientas nuevas para llevar a cabo
-  proyectos que sean beneficios y fructiferos.
+- En esta etapa como estudiante con muchas ganas de seguir aprendiendo , adquirir conocimientos y herramientas nuevas para llevar a cabo
+  proyectos que sean beneficios para seguir formandome como profesional.
 - 
 __Check out my GitHub repository:__
 
