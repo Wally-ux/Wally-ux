@@ -5,7 +5,7 @@
 -->
 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***acerca de mi***
 
 💻 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
 
