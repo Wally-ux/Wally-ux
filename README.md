@@ -9,7 +9,7 @@
 
 💻 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
 
-- 🌱actualmente estoy en el primer cuatrimestre de la carrera de Prograacion
+- 🌱actualmente estoy en el primer cuatrimestre de la carrera de Programacion
 - tecnologias abordadas
 - 🐍 python
 
