@@ -8,14 +8,15 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
+💻 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
 
-- 🌱actualmente estoy en el primer cuatrimestre de la carrera
-  - python
+- 🌱actualmente estoy en el primer cuatrimestre de la carrera de Prograacion
+- tecnologias abordadas
+- 🐍 python
 
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+- muchas ganas de seguir aprendiendo , adquirir conocimientos y herremientas nuevas para llevar a cabo
+- proyectos nuevos.
+- Outside tech, 📖 I love to read novels, 🖌️ dinting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 __Check out my GitHub repository:__
