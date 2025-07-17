@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi there 👋, Bhargavi here. 
+## Hi there 👋, Walter Frias
 ![Visitor] [![GitHub followers]
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,10 +9,10 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
+
+- 🌱actualmente estoy en el primer cuatrimestre de la carrera
+  - python
+
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
