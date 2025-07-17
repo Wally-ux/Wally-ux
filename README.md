@@ -14,11 +14,9 @@
 - tecnologias abordadas
 - 🐍 python
 
-- muchas ganas de seguir aprendiendo , adquirir conocimientos y herremientas nuevas para llevar a cabo
-- proyectos nuevos.
-- Outside tech, 📖 I love to read novels, 🖌️ dinting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
-
+- muchas ganas de seguir aprendiendo , adquirir conocimientos y herramientas nuevas para llevar a cabo
+  proyectos que sean beneficios y fructiferos.
+- 
 __Check out my GitHub repository:__
 
 <div>
