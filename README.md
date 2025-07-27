@@ -9,12 +9,15 @@
 
 💻 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
 
-- 🌱actualmente estoy en el primer cuatrimestre de la carrera de Programacion
+- 🌱actualmente estoy cursando el primer cuatrimestre de la carrera de Programacion.
 - tecnologias abordadas
-- 🐍 python
+- 🐍 Desarollo/python
+- Desarrollo/java
+- Base de Datos /my sql/sql sServer
+- 
+- 
 
-- En esta etapa como estudiante con muchas ganas de seguir aprendiendo , adquirir conocimientos y herramientas nuevas para llevar a cabo
-  proyectos que sean beneficios para seguir formandome como profesional.
+
 - 
 __Check out my GitHub repository:__
 
