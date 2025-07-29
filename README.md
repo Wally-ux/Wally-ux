@@ -6,15 +6,35 @@
 
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***acerca de mi***
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact)
 
-💻 Soy Estudiante de la Tecnicatura en Programacion en la Universidad Tecnologia Nacional
+## 👋 ¡Hola! Soy Walter Frías
 
-- 🌱actualmente estoy cursando el primer cuatrimestre de la carrera de Programacion.
-- tecnologias abordadas
-- 🐍 Desarollo/python
-- Desarrollo/java
-- Base de Datos /my sql/sql sServer
-- 
+🎓 Actualmente curso la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).  
+📚 Me encuentro en el primer cuatrimestre de la carrera y estoy enfocado en desarrollar mis habilidades en desarrollo backend y bases de datos.
+
+---
+
+### 🧠 Tecnologías y herramientas
+- 💻 Lenguajes: Python 🐍 | Java ☕
+- 🛠️ Bases de datos: MySQL | SQL Server
+- 🗃️ Control de versiones: Git / GitHub
+- 💡 Próximamente: HTML / CSS / JavaScript (frontend básico)
+
+---
+
+### 📌 Proyectos destacados
+🔍 Estoy desarrollando proyectos que integran lógica de programación, estructuras de datos y acceso a bases de datos. Pronto estarán disponibles en esta sección.
+
+---
+
+### 📬 Contacto
+- ✉️ walterfrias.dev@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/walterfrias)
+
+
+
 - 
 
 
