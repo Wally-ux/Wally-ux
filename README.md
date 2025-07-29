@@ -1,4 +1,4 @@
-## Hi there 👋, Mi Nomnbre es Walter Frias
+
 ![Visitor] [![GitHub followers]
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
