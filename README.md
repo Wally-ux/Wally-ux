@@ -13,7 +13,7 @@
     </td>
 <!-- Columna derecha: Avatar -->
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Wally-ux/Wally-ux/main/avatar.png" width="150" alt="Avatar de Walter Frías" style="border-radius: 15px;" /><br><br>
+    avatar.png
       <strong>Walter Frías</strong><br>
       Desarrollador Backend en formación 👨‍💻<br>
       Python • SQL • Java
