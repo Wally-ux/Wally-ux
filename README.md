@@ -8,11 +8,11 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***acerca de mi***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact)
-<img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías">
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar_png.png?raw=true" width="150" alt="Avatar de Walter Frías">
+     <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías">
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical">
