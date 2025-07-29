@@ -17,10 +17,11 @@
 ---
 
 ### 🧠 Tecnologías y herramientas
-- 💻 Lenguajes: Python 🐍 | Java ☕
-- 🛠️ Bases de datos: MySQL | SQL Server
+- 💻 Lenguajes: Python 🐍 | 
+
 - 🗃️ Control de versiones: Git / GitHub
-- 💡 Próximamente: HTML / CSS / JavaScript (frontend básico)
+- 💡 + Aprendiendo actualmente:  Java ☕ (nivel inicial) |
+- 💡 + Bases de datos: MySQL | SQL Server |
 
 ---
 
