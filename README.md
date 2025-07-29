@@ -2,13 +2,6 @@
 
 
 ## 👋 ¡Hola! Soy Walter Frías
-<!-- Visitantes y seguidores -->
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Wally-ux?label=Seguidores&style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux" />
-</p>
-
-<!-- Tabla con stats + avatar -->
 <h2>✨ Acerca de mí</h2>
 
 <table>
@@ -28,6 +21,7 @@
     </td>
   </tr>
 </table>
+
 
 🎓 Actualmente curso la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).  
 📚 Me encuentro en el primer cuatrimestre de la carrera y estoy enfocado en desarrollar mis habilidades en desarrollo backend y bases de datos.
