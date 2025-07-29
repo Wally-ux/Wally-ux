@@ -2,36 +2,32 @@
 
 
 ## 👋 ¡Hola! Soy Walter Frías
-<!-- Visitantes y seguidores opcionales -->
-![GitHub followers](https://img.shields.io/github/followers/Wally-ux?label=Seguidores&style=social)
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux)
+<!-- Visitantes y seguidores -->
+<p align="left">
+  <img src="https://img.shields.io/github/followers/Wally-ux?label=Seguidores&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux" />
+</p>
 
-## ✨ Acerca de mí
+<!-- Tabla con stats + avatar -->
+<h2>✨ Acerca de mí</h2>
 
 <table>
   <tr>
     <!-- Columna izquierda: Stats -->
-    <td valign="top" width="70%">
-      
-      <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-      <br/>
+    <td width="70%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical&hide_border=true&count_private=true" /><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact&theme=radical&hide_border=true" />
-    
     </td>
 
     <!-- Columna derecha: Avatar -->
-    <td valign="top" width="30%" align="center">
-      
-      <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías" style="border-radius: 15px;" />
-      <br/><br/>
-      <strong>Walter Frías</strong><br/>
-      Desarrollador Backend en formación 👨‍💻<br/>
+    <td width="30%" align="center">
+      <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías" style="border-radius: 15px;" /><br><br>
+      <strong>Walter Frías</strong><br>
+      Desarrollador Backend en formación 👨‍💻<br>
       Python • SQL • Java
-      
     </td>
   </tr>
 </table>
-
 
 🎓 Actualmente curso la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).  
 📚 Me encuentro en el primer cuatrimestre de la carrera y estoy enfocado en desarrollar mis habilidades en desarrollo backend y bases de datos.
