@@ -5,16 +5,32 @@
 -->
 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux)
-![GitHub followers](https://img.shields.io/github/followers/Wally-ux?label=Follow&style=social)
+<!-- Visitantes y seguidores opcionales -->
+![GitHub followers](https://img.shields.io/github/followers/Wally-ux?label=Seguidores&style=social)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux)
+
+## ✨ Acerca de mí
 
 <table>
   <tr>
-    <td>
-      <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías">
+    <!-- Columna izquierda: Stats -->
+    <td valign="top" width="70%">
+      
+      <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact&theme=radical&hide_border=true" />
+    
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical">
+
+    <!-- Columna derecha: Avatar -->
+    <td valign="top" width="30%" align="center">
+      
+      <img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar.png?raw=true" width="150" alt="Avatar de Walter Frías" style="border-radius: 15px;" />
+      <br/><br/>
+      <strong>Walter Frías</strong><br/>
+      Desarrollador Backend en formación 👨‍💻<br/>
+      Python • SQL • Java
+      
     </td>
   </tr>
 </table>
