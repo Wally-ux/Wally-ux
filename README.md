@@ -1,10 +1,7 @@
 
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-
+## 👋 ¡Hola! Soy Walter Frías
 <!-- Visitantes y seguidores opcionales -->
 ![GitHub followers](https://img.shields.io/github/followers/Wally-ux?label=Seguidores&style=social)
 ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=Wally-ux.Wally-ux)
@@ -34,7 +31,7 @@
     </td>
   </tr>
 </table>
-## 👋 ¡Hola! Soy Walter Frías
+
 
 🎓 Actualmente curso la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN).  
 📚 Me encuentro en el primer cuatrimestre de la carrera y estoy enfocado en desarrollar mis habilidades en desarrollo backend y bases de datos.
