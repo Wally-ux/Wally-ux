@@ -1,4 +1,4 @@
-
+<img src="https://github.com/Wally-ux/Wally-ux/blob/main/avatar_png.png?raw=true" width="150" alt="Avatar de Walter Frías">
 ![Visitor] [![GitHub followers]
 <!--
 **Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
