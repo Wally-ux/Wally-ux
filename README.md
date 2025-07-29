@@ -2,6 +2,7 @@
 
 
 ## 👋 ¡Hola! Soy Walter Frías
+
 <h2>✨ Acerca de mí</h2>
 
 <table>
@@ -11,9 +12,9 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Wally-ux&show_icons=true&theme=radical&hide_border=true&count_private=true" /><br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wally-ux&layout=compact&theme=radical&hide_border=true" />
     </td>
-<!-- Columna derecha: Avatar -->
+    <!-- Columna derecha: Avatar -->
     <td width="30%" align="center">
-    avatar.png
+      <img src="https://raw.githubusercontent.com/Wally-ux/Wally-ux/main/avatar.png" width="150" alt="Avatar de Walter Frías" style="border-radius: 15px;" /><br><br>
       <strong>Walter Frías</strong><br>
       Desarrollador Backend en formación 👨‍💻<br>
       Python • SQL • Java
